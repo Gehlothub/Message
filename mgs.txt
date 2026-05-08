@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>For You</title>
+  <style>
+    body{
+      background:#f5e6d3;
+      font-family:cursive;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      height:100vh;
+      margin:0;
+    }
+
+    .note{
+      background:white;
+      padding:40px;
+      width:300px;
+      border-radius:20px;
+      box-shadow:0 0 20px rgba(0,0,0,0.2);
+      font-size:20px;
+      line-height:1.8;
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="note">
+  Dear You ❤️<br><br>
+
+  Shayad tum mujhse baat nahi karna chahti,
+  par bas ek baar ye note padh lena...<br><br>
+
+  [Yaha apna message likho]
+</div>
+
+</body>
+</html>
